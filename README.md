@@ -1,2 +1,1 @@
-# AI_Portfolio
-Portfolio of AI Annotation and Trainer.
+Add main README for AI portfolio
